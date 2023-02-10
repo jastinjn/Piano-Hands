@@ -1,0 +1,4 @@
+../Core/Src/midi_synth.c:6:6:playNote	24	static
+../Core/Src/midi_synth.c:15:6:stopNote	24	static
+../Core/Src/midi_synth.c:25:6:changeVolume	24	static
+../Core/Src/midi_synth.c:33:6:changeInstrument	24	static
